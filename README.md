@@ -135,10 +135,4 @@ Currently in development, this section will update when beta opens.
 
 ---
 
-![Metro's GitHub stats](https://github-readme-stats.vercel.app/api?username=metrokitten&theme=transparent&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=metrokitten&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metrokitten&layout=compact&theme=transparent&hide_border=true&langs_count=8)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=metrokitten&theme=github-compact&hide_border=true)
