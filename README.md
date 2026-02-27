@@ -49,12 +49,6 @@ Enjoy exploring. Don’t get lost :P
 A simple knowledge base application for the EU’s eTwinning project.
 Usable independently of any Twinspace (development is currently paused until motivation strikes).
 
-### 🌐 [Nationdex TypeScript](https://github.com/Nationdex-Team/Nationdex-TypeScript)
-A Discord bot inspired by the Pokédex, where users can catch, trade, and manage Nations.
-
-Developed by me, [Ariel Aram](https://arielaram.com/), and [Aditya](https://adityaa.xyz/).
-Built with **TypeScript**, the **Seyfert framework**, **MongoDB (Prisma ORM)**, and **TOML-based config**.
-
 ### 🌍🌎🌏 Earthy
 A mobile/web app aiming to provide **critical earthquake alerts**.
 Currently in development, this section will update when beta opens.
